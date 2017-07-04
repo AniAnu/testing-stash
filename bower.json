@@ -1,0 +1,21 @@
+{
+  "name": "ipcproject",
+  "description": "Ipc testing",
+  "main": "index.js",
+  "authors": [
+    "Anmol Shah"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
